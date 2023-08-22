@@ -6,7 +6,7 @@ The notebook here shows how to compute the tSZ-kappa cross correlation using cla
 
 Please make sure class_sz is installed before running the notebook (detailed installation instructions are available in the class_sz README)
 
-Other requirements: numpy, matplotlib
+Other requirements: numpy, matplotlib, all other requirements for class_sz
 
 ### Acknowledgments
 
